@@ -1,7 +1,6 @@
 # SpellGCN
-========
 
-(SpellGCN)[https://arxiv.org/abs/2004.14166] is a chinese spelling checki method to embed visual and phological knowledge into BERT.
+[SpellGCN](https://arxiv.org/abs/2004.14166) is a method for chinese spelling check, which embeds the visual and phological knowledge into BERT.
 This repository contains data, evaluation and training scripts.
 
 Citation:
@@ -39,9 +38,8 @@ pip intall tensorflow==1.13.1
 sh run.sh
 ```
 
-Since SpellGCN is based on BERT, the path to the BERT directory should be provided in the run.sh.
-The default training data are merged by SIGHAN13, SIGHAN14, SIGHAN15.
+Note: Since SpellGCN is based on BERT, the path to the BERT directory should be provided in the run.sh.
+The default training data is the combination of data samples from SIGHAN13, SIGHAN14, SIGHAN15.
 
-
-
-
+## Contact
+fanyi.cxy@antfin.com and weidi.xwd@antfin.com
