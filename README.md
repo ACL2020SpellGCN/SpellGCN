@@ -1,7 +1,7 @@
-#SpellGCN
+# SpellGCN
 ========
 
-SpellGCN is a chinese spelling checki method to embed visual and phological knowledge into BERT.
+(SpellGCN)[https://arxiv.org/abs/2004.14166] is a chinese spelling checki method to embed visual and phological knowledge into BERT.
 This repository contains data, evaluation and training scripts.
 
 Citation:
