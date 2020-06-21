@@ -42,4 +42,4 @@ Note: Since SpellGCN is based on BERT, the path to the BERT directory should be 
 The default training data is the combination of data samples from SIGHAN13, SIGHAN14, SIGHAN15.
 
 ## Contact
-fanyi.cxy@antfin.com and weidi.xwd@antfin.com
+fanyin.cxy@antfin.com and weidi.xwd@antfin.com
