@@ -34,7 +34,7 @@ To replicate the results from the paper, run commands as follows:
 cd scripts/
 conda create -n spellgcn python=2.7.1
 source activate spellgcn
-pip intall tensorflow==1.13.1
+pip install tensorflow==1.13.1
 sh run.sh
 ```
 
