@@ -24,7 +24,7 @@ Citation:
 ```
 This is the official code for paper titled "SpellGCN: Incorporating Phonological and Visual Similarities into Chinese Spelling Check". Accepted by ACL2020
 
-## How to run the scripts reproduce our results
+## How to reproduce our results
 
 The code is based on Tensorflow==1.13.1 and python 2.7 or higher
 
