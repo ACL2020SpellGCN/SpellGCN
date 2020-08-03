@@ -28,7 +28,7 @@ This is the official code for paper titled "SpellGCN: Incorporating Phonological
 
 The code is based on Tensorflow==1.13.1 and python 2.7 or higher
 
-To replicate the results from the paper, run commands as follows:
+Run commands as follows:
 
 ```
 cd scripts/
