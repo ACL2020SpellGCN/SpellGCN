@@ -22,7 +22,7 @@ Citation:
 }
 
 ```
-This is the official code for paper titled "SpellGCN: Incorporating Phonological and Visual Similarities into Chinese Spelling Check". Accepted by ACL2020
+This is the official code for paper titled "SpellGCN: Incorporating Phonological and Visual Similarities into Chinese Spelling Check".
 
 ## How to run?
 
@@ -40,6 +40,7 @@ sh run.sh
 
 Note: Since SpellGCN is based on BERT, the path to the BERT directory should be provided in the run.sh.
 The default training data is the combination of data samples from SIGHAN13, SIGHAN14, SIGHAN15.
+The additional 270K data samples are absent here due to the lack of permission.
 
 ## Contact
 fanyin.cxy@antfin.com and weidi.xwd@antfin.com
