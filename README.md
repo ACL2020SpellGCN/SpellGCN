@@ -43,4 +43,4 @@ The default training data is the combination of data samples from SIGHAN13, SIGH
 The additional 270K data samples are absent here due to the lack of permission.
 
 ## Contact
-fanyin.cxy@antfin.com and weidi.xwd@antfin.com
+fanyin.cxy@alibaba-inc.com and weidi.xwd@alibaba-inc.com
